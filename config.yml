@@ -1,4 +1,4 @@
-baseURL: "https://rudra2002.github.io/"
+baseURL: "https://anirudhya.com/"
 languageCode: en-us
 title: "Rudra Blog" 
 theme: "PaperMod"
@@ -105,16 +105,6 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
     - identifier: serarch
@@ -157,3 +147,4 @@ markup:
         - HTML
         - RSS
         - JSON # is necessary
+
