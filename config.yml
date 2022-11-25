@@ -1,4 +1,4 @@
-baseURL: "rudra2002.github.io"
+baseURL: "https://rudra2002.github.io/"
 languageCode: en-us
 title: "Rudra Blog" 
 theme: "PaperMod"
@@ -85,7 +85,7 @@ params:
     - name: facebook
       url: "https://www.facebook.com/anirudhya.ghosh.733"
     - name: email
-      url: "anirudhyaghosh2002@gmail.com"
+      url: "/email/"
       
   analytics:
     google:
@@ -120,7 +120,7 @@ menu:
     - identifier: serarch
       name: Search
       url: /search/
-      weight: 10
+      weight: 40
 #    - identifier: tags
 #      name: tags
 #      url: /tags/
@@ -129,11 +129,15 @@ menu:
     - identifier: Tutorial
       name: Tutorial
       url: /posts/
-      weight: 20
+      weight: 10
 
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: Contact 
+      name: Contacts
+      url: "/contacts/"
+      weight: 20
+    - identifier: About Me
+      name: About Me
+      url: "/aboutme/"
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
