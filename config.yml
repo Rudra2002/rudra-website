@@ -42,7 +42,18 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-
+  
+  
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["permalink", "summary", "content"]
+  
+  
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -142,9 +153,9 @@ markup:
 
 
 # For serarch 
-  outputs:
+outputs:
     home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+    - HTML
+    - RSS
+    - JSON # is necessary
 
