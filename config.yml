@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "rudra2002.github.io"
 languageCode: en-us
 title: "Rudra Blog" 
 theme: "PaperMod"
