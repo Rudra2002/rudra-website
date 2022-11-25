@@ -1,7 +1,7 @@
 ---
 title: "Email"
 draft: false
-searchHidden: false
+searchHidden: true
 
 ---
 # Contact me on 
