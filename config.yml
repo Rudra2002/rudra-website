@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-1MK3W096V0
 
 minify:
   disableXML: true
@@ -100,7 +100,7 @@ params:
       
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-1MK3W096V0"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -137,7 +137,7 @@ menu:
       url: "/contacts/"
       weight: 20
     - identifier: About Me
-      name: About Me
+      name: About
       url: "/aboutme/"
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
