@@ -1,9 +1,9 @@
 ---
-title: "Installation of Docker and Portainer For the First Time"
+title: "Installation of Docker and Portainer"
 date: 2022-11-30T13:13:54+06:00
 draft: false
 searchHidden: false
-Description:  In this post I will show how to install docker and portainer for the first time in a linux distro.
+Description:  In this post I will show how to install docker and portainer in a linux distro.
 
 ---
 # Installtion of Docker:
