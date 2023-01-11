@@ -3,7 +3,7 @@ title: "Github Token"
 date: 2022-11-26T03:21:05+06:00
 draft: false
 searchHidden: false
-
+Description: This is a tutorial how to create personal access token from github and configure your github client to use it.
 ---
 # This is a tutorial how to create personal access token from github and configure your github client to use it.
 ### This will be done in 2 steps:
